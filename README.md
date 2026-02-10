@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Bahareh Rahnama</h1>
 <h3 align="center">Computer Engineering Student at University of Isfahan</h3>
 
+<p align="center">
+  <img src="IMG_5129.jpg" width="800"/>
+</p>
+
 ---
 
 ## 🌱 About Me
