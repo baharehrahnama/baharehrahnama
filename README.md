@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I'm Bahareh Rahnama
 
-<!--
-**baharehrahnama/baharehrahnama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CE Student @ University of Isfahan  
+Interested in **Computer Networks**, **HCI**, and **Front-End Development**.
 
-Here are some ideas to get you started:
+### 🔧 Tech
+- Languages: C++, Python
+- Tools: Qt, VS Code, PyCharm, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects (in progress)
+- 2048 Game
+- Social Network
+- Proxy Server
+- Reliable Data Transfer
+- Routing Algorithms
+
+📫 LinkedIn: https://www.linkedin.com/in/bahareh-rahnama2004
