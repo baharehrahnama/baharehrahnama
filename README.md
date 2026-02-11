@@ -3,7 +3,7 @@
 <h3 align="center">Computer Engineering Student at University of Isfahan</h3>
 
 <p align="center">
-  <img src="./IMG_8720.jpg" width="800">
+  <img src="./IMG_8720.jpeg" width="800">
 </p>
 
 
