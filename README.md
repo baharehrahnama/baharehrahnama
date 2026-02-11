@@ -1,8 +1,10 @@
-<img src="assets/banner.png" />
 
 <h1 align="center">Hi 👋, I'm Bahareh Rahnama</h1>
 <h3 align="center">Computer Engineering Student at University of Isfahan</h3>
 
+<p align="center">
+  <img src="assets/IMG_8720.png" width="800">
+<?p>
 
 
 ---
