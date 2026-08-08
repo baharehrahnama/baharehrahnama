@@ -5,7 +5,7 @@ Computer Engineering Student | Networks • AI • HCI • Web Development
 </h3>
 
 <p align="center">
-  <img src="./IMG_8720.jpeg" width="500">
+  <img src="./git photo.PNG" width="500">
 </p>
 
 ---
