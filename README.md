@@ -42,7 +42,7 @@ Computer Engineering Student | Networks • AI • HCI • Web Development
 
 ### 🍽️ FoodieLand
 A responsive recipe website built using **HTML, CSS, and JavaScript**.
-🔗 **[View Repository](https://github.com/baharerahnama/foodieland-phase3)**
+🔗 **[View Repository]([https://github.com/baharerahnama/foodieland-phase3](https://github.com/baharehrahnama/foodieland-phase3.git)**
 ### 🌐 Python Proxy Server
 A Computer Networks project implementing a simple proxy server using Python.
 
